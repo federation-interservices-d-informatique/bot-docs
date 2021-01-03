@@ -5,7 +5,8 @@ export default ({ Vue }) => {
 		avatars: {
             nio: require('../assets/nio.png'),
             fii: require('../assets/fii.png'),
-            woomy: require('../assets/woomy.gif')
+            woomy: require('../assets/woomy.gif'),
+            developheure: require('../assets/developheure.png')
         },
         profiles: {
             nio: {
@@ -24,6 +25,11 @@ export default ({ Vue }) => {
                 roleColor: `#ff4093`,
                 avatar: 'woomy'
             },
+            developheure: {
+                author: 'DevelopHeure',
+                roleColor: '#ff4093',
+                avatar: 'developheure'
+            }
         },
         'compact-mode': false
 	});
