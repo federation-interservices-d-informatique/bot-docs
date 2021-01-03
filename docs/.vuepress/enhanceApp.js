@@ -6,7 +6,8 @@ export default ({ Vue }) => {
             nio: require('../assets/nio.png'),
             fii: require('../assets/fii.png'),
             woomy: require('../assets/woomy.gif'),
-            developheure: require('../assets/developheure.png')
+            developheure: require('../assets/developheure.png'),
+            abysmal: require('../assets/abysmal.png')
         },
         profiles: {
             nio: {
@@ -29,6 +30,11 @@ export default ({ Vue }) => {
                 author: 'DevelopHeure',
                 roleColor: '#ff4093',
                 avatar: 'developheure'
+            },
+            abysmal: {
+                author: 'Abysmal',
+                roleColor: '#ff4093',
+                avatar: 'abysmal'
             }
         },
         'compact-mode': false
