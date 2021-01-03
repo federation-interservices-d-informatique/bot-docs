@@ -9,7 +9,8 @@ export default ({ Vue }) => {
             developheure: require('../assets/developheure.png'),
             abysmal: require('../assets/abysmal.png'),
             rheydskey: require('../assets/rheydskey.png'),
-            barkod: require('../assets/barkod.png')
+            barkod: require('../assets/barkod.png'),
+            superfola: require('../assets/superfola.gif')
         },
         profiles: {
             nio: {
@@ -47,6 +48,11 @@ export default ({ Vue }) => {
                 author: 'Barkod',
                 roleColor: '#ff4093',
                 avatar: 'barkod'
+            },
+            superfola: {
+                author: 'SuperFola',
+                roleColor: '#ff4093',
+                avatar: 'superfola'
             }
         },
         'compact-mode': false
