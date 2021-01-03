@@ -3,6 +3,9 @@ module.exports = {
   description: "La documentation de FII - Bot",
   base: "/bot-docs/",
   theme: "yuu",
+  head: [
+    ['link', { rel: 'icon', href: '/fii.png' }],
+  ],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
