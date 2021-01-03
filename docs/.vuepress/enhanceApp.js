@@ -10,7 +10,8 @@ export default ({ Vue }) => {
             abysmal: require('../assets/abysmal.png'),
             rheydskey: require('../assets/rheydskey.png'),
             barkod: require('../assets/barkod.png'),
-            superfola: require('../assets/superfola.gif')
+            superfola: require('../assets/superfola.gif'),
+            kilgharrah: require('../assets/kilgharrah.png')
         },
         profiles: {
             nio: {
@@ -53,6 +54,11 @@ export default ({ Vue }) => {
                 author: 'SuperFola',
                 roleColor: '#ff4093',
                 avatar: 'superfola'
+            },
+            kilgharrah: {
+                author: 'Kilgharrah',
+                roleColor: '#ff4093',
+                avatar: 'kilgharrah'
             }
         },
         'compact-mode': false
