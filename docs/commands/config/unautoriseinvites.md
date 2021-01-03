@@ -4,6 +4,10 @@ title: Unautoriseinvites
 # [Unautoriseinvites](https://github.com/federation-interservices-d-informatique/bot/blob/main/src/commands/config/unautoriseinvites.ts)
 La commande `unautoriseinvites` permet d'interdire les invitations dans tout le serveur / un canal.
 
+:::warning
+La permission `ADMINISTRATEUR` est requise pour utiliser cette commande
+:::
+
 ## Utilisation
 ```
 &unautoriseinvites (channels: string[])
