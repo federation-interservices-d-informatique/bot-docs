@@ -4,6 +4,10 @@ title: Embed
 # [Embed](https://github.com/federation-interservices-d-informatique/bot/blob/main/src/commands/bot/embed.ts)
 La commande `embed` sert à créér un embed 
 
+:::warning
+La permission `ADMINISTRATEUR` est requise pour utiliser cette commande
+:::
+
 ## Utilisation:
 ```
 &embed {title: string} {description: string}

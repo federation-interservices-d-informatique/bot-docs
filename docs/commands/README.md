@@ -11,3 +11,4 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 ## Config
 > Commandes pour configurer le bot
 - [Autoriseinvites](config/autoriseinvites.md)
+- [Ignorechan](config/ignorechan.md)
