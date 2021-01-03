@@ -29,6 +29,10 @@ Ignorer des canaux de l'antispam
 </p>
 </discord-embed>
 </discord-message>
+</discord-messages>
+
+> Obtenir l'aide d'une seule commande:
+<discord-messages>
 <discord-message profile="developheure">&help botinfo</discord-message>
 <discord-message profile="fiibot">
 <discord-embed color="#f1c40f">
