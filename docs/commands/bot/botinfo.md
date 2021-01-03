@@ -6,6 +6,6 @@ La commande `botinfo` sert à obtenir des informations sur le bot, comme son Git
 
 ## Utilisation:
 ```
-botinfo
+&botinfo
 ```
 ![Screenshot](../../assets/botinfo.png)

@@ -6,7 +6,7 @@ La commande `embed` sert à créér un embed
 
 ## Utilisation:
 ```
-embed {title: string} {description: string}
+&embed {title: string} {description: string}
 ```
 ## Exemple:
 ![ScreenShot](../../assets/embed.png)
