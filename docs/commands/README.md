@@ -15,3 +15,6 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 - [Logs](config/logs.md)
 - [Unautoriseinvites](config/unautoriseinvites.md)
 - [Unignorechan](config/unignorechan.md)
+## Modération
+> Commandes de modération
+- [Raidmode](moderation/raidmode.md)

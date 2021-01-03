@@ -12,7 +12,8 @@ export default ({ Vue }) => {
             barkod: require('../assets/barkod.png'),
             superfola: require('../assets/superfola.gif'),
             kilgharrah: require('../assets/kilgharrah.png'),
-            jojola: require('../assets/jojola.png')
+            jojola: require('../assets/jojola.png'),
+            daniel14920123: require('../assets/daniel14920123.png')
         },
         profiles: {
             nio: {
@@ -65,6 +66,11 @@ export default ({ Vue }) => {
                 author: 'Jojola',
                 roleColor: '#ff4093',
                 avatar: 'jojola'
+            },
+            daniel14920123: {
+                author: 'daniel14920123',
+                roleColor: '#ff4093',
+                avatar: 'daniel14920123'
             }
         },
         'compact-mode': false
