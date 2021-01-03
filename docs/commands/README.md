@@ -6,3 +6,4 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 - [Botinfo](bot/botinfo.md)
 - [Embed](bot/embed.md)
 - [Ping](bot/ping.md)
+- [Help](bot/help.md)
