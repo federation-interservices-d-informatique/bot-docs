@@ -8,7 +8,8 @@ export default ({ Vue }) => {
             woomy: require('../assets/woomy.gif'),
             developheure: require('../assets/developheure.png'),
             abysmal: require('../assets/abysmal.png'),
-            rheydskey: require('../assets/rheydskey.png')
+            rheydskey: require('../assets/rheydskey.png'),
+            barkod: require('../assets/barkod.png')
         },
         profiles: {
             nio: {
@@ -41,6 +42,11 @@ export default ({ Vue }) => {
                 author: 'Rheydskey 🍪',
                 roleColor: '#ff4093',
                 avatar: 'rheydskey'
+            },
+            barkod: {
+                author: 'Barkod',
+                roleColor: '#ff4093',
+                avatar: 'barkod'
             }
         },
         'compact-mode': false
