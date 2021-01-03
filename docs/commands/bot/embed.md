@@ -9,4 +9,3 @@ La commande `embed` sert à créér un embed
 &embed {title: string} {description: string}
 ```
 ## Exemple:
-![ScreenShot](../../assets/embed.png)
