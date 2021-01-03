@@ -7,3 +7,7 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 - [Embed](bot/embed.md)
 - [Ping](bot/ping.md)
 - [Help](bot/help.md)
+
+## Config
+> Commandes pour configurer le bot
+- [Autoriseinvites](config/autoriseinvites.md)

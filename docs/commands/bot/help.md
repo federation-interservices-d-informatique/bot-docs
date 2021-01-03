@@ -10,8 +10,3 @@ La commande `help` permet d'obtenir la liste des commandes du bot / des infos su
 help (commande: string)
 ```
 ## Exemples
-![Screenshot](../../assets/help.png)
-
-
-
-![Screenshot](../../assets/help-cmd.png)

@@ -9,4 +9,3 @@ La commande `ping` sert à obtenir le ping du bot. Elle peut aussi être utile p
 ```
 &ping
 ```
-![ScreenShot](../../assets/ping.png)

@@ -6,11 +6,11 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
+      { text: 'Commandes', link: '/commands/' },
       {
         text: "GitHub",
         link: "https://github.com/Federation-Interservices-D-Informatique",
       },
     ],
-    sidebar: []
   },
 };
