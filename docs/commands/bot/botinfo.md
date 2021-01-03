@@ -8,3 +8,14 @@ La commande `botinfo` sert à obtenir des informations sur le bot, comme son Git
 ```
 &botinfo
 ```
+
+## Exemples:
+<discord-messages>
+<discord-message profile="rheydskey">&botinfo</discord-message>
+<discord-message profile="fiibot">
+<discord-embed color="#21d37d">
+<p>Infomations de FII - Bot:</p>
+
+</discord-embed>
+</discord-message>
+</discord-messages>
