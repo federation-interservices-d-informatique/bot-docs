@@ -13,7 +13,8 @@ export default ({ Vue }) => {
             superfola: require('../assets/superfola.gif'),
             kilgharrah: require('../assets/kilgharrah.png'),
             jojola: require('../assets/jojola.png'),
-            daniel14920123: require('../assets/daniel14920123.png')
+            daniel14920123: require('../assets/daniel14920123.png'),
+            arzo: require('../assets/lp.png')
         },
         profiles: {
             nio: {
@@ -71,6 +72,11 @@ export default ({ Vue }) => {
                 author: 'daniel14920123',
                 roleColor: '#ff4093',
                 avatar: 'daniel14920123'
+            },
+            arzo: {
+                author: 'Lightning Pelt ⚡',
+                roleColor: '#ff4093',
+                avatar: 'arzo'
             }
         },
         'compact-mode': false

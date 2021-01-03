@@ -18,3 +18,4 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 ## Modération
 > Commandes de modération
 - [Raidmode](moderation/raidmode.md)
+- [Report](moderation/report.md)
