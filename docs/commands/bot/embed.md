@@ -9,3 +9,13 @@ La commande `embed` sert à créér un embed
 &embed {title: string} {description: string}
 ```
 ## Exemple:
+
+<discord-messages>
+<discord-message profile="abysmal">&embed Salut Ca va?</discord-message>
+<discord-message profile="fiibot">
+<discord-embed color="#ba3962">
+<p><b>Salut</b></p>
+<p>Ca va?</p>
+</discord-embed>
+</discord-message>
+</discord-messages>
