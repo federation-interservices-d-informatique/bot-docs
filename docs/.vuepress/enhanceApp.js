@@ -14,7 +14,8 @@ export default ({ Vue }) => {
             kilgharrah: require('../assets/kilgharrah.png'),
             jojola: require('../assets/jojola.png'),
             daniel14920123: require('../assets/daniel14920123.png'),
-            arzo: require('../assets/lp.png')
+            arzo: require('../assets/lp.png'),
+            mobyr: require('../assets/mobyr.jpg')
         },
         profiles: {
             nio: {
@@ -77,6 +78,11 @@ export default ({ Vue }) => {
                 author: 'Lightning Pelt ⚡',
                 roleColor: '#ff4093',
                 avatar: 'arzo'
+            },
+            mobyr: {
+                author: 'Mobyr',
+                roleColor: '#ff4093',
+                avatar: 'mobyr'
             }
         },
         'compact-mode': false
