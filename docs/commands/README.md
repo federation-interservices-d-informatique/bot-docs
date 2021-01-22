@@ -23,3 +23,4 @@ Voici la liste des commandes de FII-Bot, triées par catégorie.
 ## ID
 > Commandes de gestion de son ID FII
 - [ID](id/id.md)
+- [Auth](id/auth.md)
