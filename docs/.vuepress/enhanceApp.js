@@ -15,7 +15,8 @@ export default ({ Vue }) => {
             jojola: require('../assets/jojola.png'),
             daniel14920123: require('../assets/daniel14920123.png'),
             arzo: require('../assets/lp.png'),
-            mobyr: require('../assets/mobyr.jpg')
+            mobyr: require('../assets/mobyr.jpg'),
+            zelcrom: require('../assets/zelcrom.gif')
         },
         profiles: {
             nio: {
@@ -83,6 +84,11 @@ export default ({ Vue }) => {
                 author: 'Mobyr',
                 roleColor: '#ff4093',
                 avatar: 'mobyr'
+            },
+            zelcrom: {
+                author: "Zelcrom_",
+                roleColor: '#ff4093',
+                avatar: 'zelcrom'
             }
         },
         'compact-mode': false
