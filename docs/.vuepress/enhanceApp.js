@@ -10,7 +10,7 @@ export default ({ Vue }) => {
             abysmal: require('../assets/abysmal.png'),
             rheydskey: require('../assets/rheydskey.png'),
             barkod: require('../assets/barkod.png'),
-            superfola: require('../assets/superfola.gif'),
+            superfola: require('../assets/superfola.png'),
             kilgharrah: require('../assets/kilgharrah.png'),
             jojola: require('../assets/jojola.png'),
             daniel14920123: require('../assets/daniel14920123.png'),
