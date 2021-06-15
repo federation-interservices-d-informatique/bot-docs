@@ -31,7 +31,7 @@ export default ({ Vue }) => {
                 avatar: 'fii'
             },
             woomy: {
-                author: 'Woomy',
+                author: 'Woomymy',
                 roleColor: `#ff4093`,
                 avatar: 'woomy'
             },
